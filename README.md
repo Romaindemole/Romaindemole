@@ -3,7 +3,7 @@
 
 # CroustyCloud
 
-#### Suite à l'évolution de mes projets, j'ai eu la chance de rencontrer des personnes qui m'ont permis, jusqu'à présent, de devenir un hébergeur. Cela me permet donc de développer des sites en utilisant de nouvelles technologies telles que la gestion des serveurs, l'installation de VPS, et plein d'autres fonctionnalités.
+#### Suite à l'évolution de mes projets, j'ai eu la chance de rencontrer des personnes qui m'ont permis, jusqu'à présent, de devenir un hébergeur. Cela me permet donc de développer des sites en utilisant de nouvelles technologies telles que la gestion des serveurs, l'installation de VPS, et plein d'autres fonctionnalités. Cela me permet également de gérer l'infrastructure, en particulier la partie logicielle, actuellement avec Proxmox.
 
 #### Notre lien : https://croustycloud.fr
 
